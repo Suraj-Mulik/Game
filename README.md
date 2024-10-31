@@ -1,2 +1,2 @@
-# Game
+  # Game
 This is simple game.
